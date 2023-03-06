@@ -12,10 +12,12 @@ Aprende una vez, escríbelo donde sea
 En React no dejamos fuera al resto de tus herramientas tecnológicas, así que podrás desarrollar nuevas características sin necesidad de volver a escribir el código existente.
 
 - Videos :
+
 	https://youtube.com/playlist?list=PLwXyz034ZBVCF4vXcdS-TVPR-jvxjRpH_
 
 
 -Materiales :
+
 	Visual Studio:
 	https://visualstudio.microsoft.com/es/
 
@@ -26,4 +28,5 @@ En React no dejamos fuera al resto de tus herramientas tecnológicas, así que p
 	https://www.microsoft.com/es-es/sql-server/sql-server-downloads
 
 -Documentación :
+
 	https://reactnative.dev/
