@@ -1,8 +1,8 @@
-###React Native
+# React Native
 Te ayuda a crear interfaces de usuario interactivas de forma sencilla. Diseña vistas simples para cada estado en tu aplicación, y React se encargará de actualizar y renderizar de manera eficiente los componentes correctos cuando los datos cambien.
 
 
-##Basado en componentes
+## Basado en componentes
 
 Crea componentes encapsulados que manejen su propio estado, y conviértelos en interfaces de usuario complejas.
 
